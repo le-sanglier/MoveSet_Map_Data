@@ -1,0 +1,21 @@
+All usernames:  Student1    All passwords:  Student1
+
+To begin, open the terminal and log in as the superuser (su), Password: Student1
+
+You can open Omnet by typing omnetpp in the terminal.
+
+You will find Viens in a directory in Omnet.  Expand the Veins directory and navigate to examples -> veins.  This is the vanilla version of the simulator that you will use.  
+
+To run the simulator, first start Sumo by entering the launchd.py call listed in Useful Commands into the terminal.  This is also listed in the Useful Commands file.  This will allow Sumo to listen to Omnet and run the simulation.
+
+Now, right click on the omnetpp.ini file and select Run As -> 1 Omnet++ Simulation.  This will begin the normal simulation.
+
+Next, you can pull from the github to access the updated Veins folder with custom messaging setup.  Here is a link to the github - https://github.com/msu-netlab/MOVESET-SIM.  The folder that has been modified is "application" and it lives under veins -> src -> veins -> modules.
+
+Once you clone the github you can add this into your simulation.  Mark the original as applicaitons_original (or something to that effect) and drag and drop the new applications folder into the file system where the old application folder lived.
+
+All updated code in the custom simulation is marked with a comment "updated sim code", and it also has a description of what the code does.  You can alter the custom message on line 37 of the TraCIDemo11p.cc file (although I don't know why you would ever want to do that!).  The rest of the code should be well described and easy to search for.
+
+When a custom message is sent, it should print in the console of the simulator.  When a custom message arrives, it will print in the console of Omnet.  And at the end of the simulation, the Results folder in the simulation folder (veins -> examples -> veins) will contain statistics on how many messages were sent.
+
+You can contact me at jon.heinecke@gmail.com with questions.  Thanks and enjoy!

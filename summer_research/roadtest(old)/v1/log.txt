@@ -1,0 +1,1797 @@
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 37784 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.77   sec   110 KBytes  1.17 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.77   sec   110 KBytes  1.17 Mbits/sec    0             sender
+[  4]   0.00-0.77   sec  66.3 KBytes  0.70 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 51497 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.70   sec   101 KBytes  1.18 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.70   sec   101 KBytes  1.18 Mbits/sec  9.110 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=179 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=178 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=231 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 178.853/196.441/231.293/24.649 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 39350 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  86.2 KBytes  0.71 Mbits/sec    0   38.5 KBytes       
+[  4]   1.00-1.03   sec  23.9 KBytes  6.90 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-1.03   sec   110 KBytes  0.88 Mbits/sec    0             sender
+[  4]   0.00-1.03   sec  82.2 KBytes  0.65 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 44378 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.93   sec   101 KBytes   892 Kbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.93   sec   101 KBytes   892 Kbits/sec  4.883 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=163 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=207 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=404 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 163.316/258.445/404.183/104.644 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 40750 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.97   sec   105 KBytes  0.88 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.97   sec   105 KBytes  0.88 Mbits/sec    0             sender
+[  4]   0.00-0.97   sec  78.2 KBytes  0.66 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 36159 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.93   sec   101 KBytes   891 Kbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.93   sec   101 KBytes   891 Kbits/sec  6.466 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=162 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=246 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=716 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 162.065/374.968/716.519/243.950 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 42136 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  86.2 KBytes  0.71 Mbits/sec    0   38.5 KBytes       
+[  4]   1.00-1.16   sec  23.9 KBytes  1.23 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-1.16   sec   110 KBytes  0.78 Mbits/sec    0             sender
+[  4]   0.00-1.16   sec  80.9 KBytes  0.57 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52704 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  95.5 KBytes   782 Kbits/sec  72  
+[  4]   1.00-1.05   sec  5.30 KBytes   965 Kbits/sec  4  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-1.05   sec   101 KBytes   790 Kbits/sec  4.222 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=752 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=215 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=196 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 196.610/388.085/752.083/257.501 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 44000 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  86.2 KBytes  0.71 Mbits/sec    0   38.5 KBytes       
+[  4]   1.00-1.06   sec  23.9 KBytes  3.12 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-1.06   sec   110 KBytes  0.85 Mbits/sec    0             sender
+[  4]   0.00-1.06   sec  82.2 KBytes  0.63 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 34793 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.96   sec   101 KBytes   861 Kbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.96   sec   101 KBytes   861 Kbits/sec  6.929 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=252 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=249 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=211 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 211.964/238.069/252.310/18.484 ms
+20170309031336
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 45244 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  86.2 KBytes  0.71 Mbits/sec    0   38.5 KBytes       
+[  4]   1.00-1.10   sec  23.9 KBytes  2.03 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-1.10   sec   110 KBytes  0.82 Mbits/sec    0             sender
+[  4]   0.00-1.10   sec  82.2 KBytes  0.61 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 47852 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.99   sec   101 KBytes   831 Kbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.99   sec   101 KBytes   831 Kbits/sec  5.859 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=186 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=453 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=273 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 186.919/304.552/453.720/111.180 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=341 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=237 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=192 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 192.848/257.266/341.408/62.233 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=315 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=180 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=247 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 180.939/247.887/315.123/54.780 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=379 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=222 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=297 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 222.151/299.820/379.946/64.442 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=328 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=219 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=190 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 190.648/246.376/328.775/59.460 ms
+20170309032222
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=339 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=201 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=210 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 201.381/250.297/339.439/63.133 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=325 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=255 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=202 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 202.017/260.991/325.553/50.591 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=328 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=171 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=197 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 171.998/232.626/328.625/68.662 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=348 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=202 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=368 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 202.209/306.280/368.164/74.028 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 50842 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.61   sec   114 KBytes  1.54 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.61   sec   114 KBytes  1.54 Mbits/sec    0             sender
+[  4]   0.00-0.61   sec  75.6 KBytes  1.02 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=347 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=188 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=223 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 188.343/252.841/347.034/68.103 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52308 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.64   sec   110 KBytes  1.41 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.64   sec   110 KBytes  1.41 Mbits/sec    0             sender
+[  4]   0.00-0.64   sec  69.0 KBytes  0.88 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 60472 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.58   sec   101 KBytes  1.43 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.58   sec   101 KBytes  1.43 Mbits/sec  3.452 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=197 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=234 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=194 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 194.470/208.876/234.787/18.363 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 53874 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.66   sec   110 KBytes  1.36 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.66   sec   110 KBytes  1.36 Mbits/sec    0             sender
+[  4]   0.00-0.66   sec  67.6 KBytes  0.84 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 44644 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.60   sec   101 KBytes  1.38 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.60   sec   101 KBytes  1.38 Mbits/sec  7.206 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=196 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=453 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=210 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 196.449/287.030/453.652/117.970 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 55272 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.79   sec   126 KBytes  1.31 Mbits/sec    0   46.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.79   sec   126 KBytes  1.31 Mbits/sec    0             sender
+[  4]   0.00-0.79   sec  78.2 KBytes  0.82 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 60276 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.62   sec   101 KBytes  1.33 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.62   sec   101 KBytes  1.33 Mbits/sec  9.305 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=197 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=196 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=187 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 187.990/193.751/197.242/4.104 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 56660 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  58.4 KBytes  0.48 Mbits/sec    0   31.8 KBytes       
+[  4]   1.00-2.00   sec  0.00 Bytes  0.00 Mbits/sec    1   1.33 KBytes       
+[  4]   2.00-3.00   sec  0.00 Bytes  0.00 Mbits/sec    1   1.33 KBytes       
+[  4]   3.00-4.00   sec  0.00 Bytes  0.00 Mbits/sec    2   21.2 KBytes       
+[  4]   4.00-4.25   sec  69.0 KBytes  2.29 Mbits/sec    0   37.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-4.25   sec   127 KBytes  0.25 Mbits/sec    4             sender
+[  4]   0.00-4.25   sec  61.0 KBytes  0.12 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 46047 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  30.5 KBytes   250 Kbits/sec  23  
+[  4]   1.00-2.00   sec  31.8 KBytes   261 Kbits/sec  24  
+[  4]   2.00-3.00   sec  30.5 KBytes   250 Kbits/sec  23  
+[  4]   3.00-3.26   sec  7.96 KBytes   251 Kbits/sec  6  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-3.26   sec   101 KBytes   253 Kbits/sec  26.825 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=203 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=195 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=189 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 189.678/195.986/203.124/5.544 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 58524 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.53   sec   110 KBytes  1.71 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.53   sec   110 KBytes  1.71 Mbits/sec    0             sender
+[  4]   0.00-0.53   sec  69.0 KBytes  1.07 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 35597 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.48   sec   101 KBytes  1.73 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.48   sec   101 KBytes  1.73 Mbits/sec  3.017 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=595 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=142 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=202 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 142.576/313.562/595.811/201.063 ms
+20170309035622
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 59754 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.52   sec   126 KBytes  1.97 Mbits/sec    0   46.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.52   sec   126 KBytes  1.97 Mbits/sec    0             sender
+[  4]   0.00-0.52   sec  78.2 KBytes  1.22 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 39332 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.41   sec   101 KBytes  1.99 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.41   sec   101 KBytes  1.99 Mbits/sec  3.233 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=168 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=236 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=251 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 168.527/219.081/251.785/36.262 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 33088 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.58   sec   134 KBytes  1.91 Mbits/sec    0   49.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.58   sec   134 KBytes  1.91 Mbits/sec    0             sender
+[  4]   0.00-0.58   sec  76.9 KBytes  1.09 Mbits/sec                  receiver
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=345 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=200 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=254 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 11352ms
+rtt min/avg/max/mdev = 200.306/266.735/345.175/59.752 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 34486 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.52   sec   117 KBytes  1.83 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.52   sec   117 KBytes  1.83 Mbits/sec    0             sender
+[  4]   0.00-0.52   sec  75.6 KBytes  1.19 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 55557 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.45   sec   101 KBytes  1.85 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.45   sec   101 KBytes  1.85 Mbits/sec  4.249 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=173 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=185 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=171 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 171.507/176.803/185.190/6.008 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 35876 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  26.5 KBytes  0.22 Mbits/sec    0   19.9 KBytes       
+[  4]   1.00-2.00   sec  23.9 KBytes  0.20 Mbits/sec    0   31.8 KBytes       
+[  4]   2.00-3.00   sec  35.8 KBytes  0.29 Mbits/sec    0   38.5 KBytes       
+[  4]   3.00-4.00   sec  0.00 Bytes  0.00 Mbits/sec    9   21.2 KBytes       
+[  4]   4.00-4.89   sec  23.9 KBytes  0.22 Mbits/sec    3   26.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-4.89   sec   110 KBytes  0.18 Mbits/sec   12             sender
+[  4]   0.00-4.89   sec  87.5 KBytes  0.15 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 58425 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  22.5 KBytes   185 Kbits/sec  17  
+[  4]   1.00-2.00   sec  22.5 KBytes   185 Kbits/sec  17  
+[  4]   2.00-3.00   sec  21.2 KBytes   174 Kbits/sec  16  
+[  4]   3.00-4.00   sec  22.5 KBytes   185 Kbits/sec  17  
+[  4]   4.00-4.53   sec  11.9 KBytes   184 Kbits/sec  9  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-4.53   sec   101 KBytes   182 Kbits/sec  47.797 ms  23/76 (30%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=248 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=254 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=217 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 217.269/240.052/254.762/16.341 ms
+20170309040506
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=4129 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=3126 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=2156 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 2156.058/3137.245/4129.568/805.721 ms, pipe 3
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 41904 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  50.4 KBytes  0.41 Mbits/sec    0   25.2 KBytes       
+[  4]   1.00-2.00   sec  35.8 KBytes  0.29 Mbits/sec    0   38.5 KBytes       
+[  4]   2.00-2.11   sec  23.9 KBytes  1.82 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-2.11   sec   110 KBytes  0.43 Mbits/sec    0             sender
+[  4]   0.00-2.11   sec  82.2 KBytes  0.32 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 48298 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  53.0 KBytes   435 Kbits/sec  40  
+[  4]   1.00-1.90   sec  47.7 KBytes   437 Kbits/sec  36  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-1.90   sec   101 KBytes   436 Kbits/sec  17.312 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=170 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=215 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=163 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 163.451/182.989/215.243/22.976 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 43296 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  50.4 KBytes  0.41 Mbits/sec    0   22.5 KBytes       
+[  4]   1.00-2.00   sec  35.8 KBytes  0.29 Mbits/sec    0   35.8 KBytes       
+[  4]   2.00-3.00   sec  0.00 Bytes  0.00 Mbits/sec    2   35.8 KBytes       
+[  4]   3.00-4.00   sec  0.00 Bytes  0.00 Mbits/sec    5   21.2 KBytes       
+[  4]   4.00-5.00   sec  0.00 Bytes  0.00 Mbits/sec    8   19.9 KBytes       
+[  4]   5.00-6.00   sec  0.00 Bytes  0.00 Mbits/sec    0   15.9 KBytes       
+[  4]   6.00-6.43   sec  57.0 KBytes  1.09 Mbits/sec    0   30.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-6.43   sec   143 KBytes  0.18 Mbits/sec   15             sender
+[  4]   0.00-6.43   sec  82.2 KBytes  0.10 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 49388 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  22.5 KBytes   185 Kbits/sec  17  
+[  4]   1.00-2.00   sec  22.5 KBytes   184 Kbits/sec  17  
+[  4]   2.00-3.00   sec  21.2 KBytes   174 Kbits/sec  16  
+[  4]   3.00-4.00   sec  22.5 KBytes   185 Kbits/sec  17  
+[  4]   4.00-4.53   sec  11.9 KBytes   186 Kbits/sec  9  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-4.53   sec   101 KBytes   182 Kbits/sec  36.539 ms  24/76 (32%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=160 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=304 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=297 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 160.276/253.786/304.013/66.185 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 45144 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  58.4 KBytes  0.48 Mbits/sec    0   27.8 KBytes       
+[  4]   1.00-1.89   sec  51.7 KBytes  0.48 Mbits/sec    1   33.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-1.89   sec   110 KBytes  0.48 Mbits/sec    1             sender
+[  4]   0.00-1.89   sec  61.0 KBytes  0.26 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 40942 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  59.7 KBytes   489 Kbits/sec  45  
+[  4]   1.00-1.70   sec  41.1 KBytes   482 Kbits/sec  31  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-1.70   sec   101 KBytes   486 Kbits/sec  27.790 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=236 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=204 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=183 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 183.962/208.245/236.131/21.449 ms
+20170309041348
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 46256 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.54   sec   127 KBytes  1.93 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.54   sec   127 KBytes  1.93 Mbits/sec    0             sender
+[  4]   0.00-0.54   sec  79.6 KBytes  1.21 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 35458 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.42   sec   101 KBytes  1.95 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.42   sec   101 KBytes  1.95 Mbits/sec  2.419 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=178 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=232 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=175 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 175.603/195.559/232.752/26.322 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=359 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=159 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=410 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 159.328/309.907/410.914/108.528 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 49226 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.44   sec   102 KBytes  1.90 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.44   sec   102 KBytes  1.90 Mbits/sec    0             sender
+[  4]   0.00-0.44   sec  70.3 KBytes  1.31 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 40628 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.43   sec   101 KBytes  1.92 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.43   sec   101 KBytes  1.92 Mbits/sec  2.134 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=146 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=145 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=131 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 131.115/141.100/146.349/7.077 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 50626 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.53   sec   113 KBytes  1.73 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.53   sec   113 KBytes  1.73 Mbits/sec    0             sender
+[  4]   0.00-0.53   sec  71.6 KBytes  1.10 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 58893 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.47   sec   101 KBytes  1.75 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.47   sec   101 KBytes  1.75 Mbits/sec  3.859 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=136 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=138 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=163 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 136.223/146.138/163.490/12.318 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52488 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.76   sec   121 KBytes  1.30 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.76   sec   121 KBytes  1.30 Mbits/sec    0             sender
+[  4]   0.00-0.76   sec  80.9 KBytes  0.87 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 38401 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.63   sec   101 KBytes  1.32 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.63   sec   101 KBytes  1.32 Mbits/sec  5.327 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=168 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=201 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=398 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 168.952/256.208/398.599/101.537 ms
+20170309042225
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 53702 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.77   sec   122 KBytes  1.30 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.77   sec   122 KBytes  1.30 Mbits/sec    0             sender
+[  4]   0.00-0.77   sec  79.6 KBytes  0.84 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 54378 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.63   sec   101 KBytes  1.32 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.63   sec   101 KBytes  1.32 Mbits/sec  6.065 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=192 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=256 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=199 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 192.332/216.210/256.656/28.754 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 55270 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.53   sec   118 KBytes  1.82 Mbits/sec    0   43.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.53   sec   118 KBytes  1.82 Mbits/sec    0             sender
+[  4]   0.00-0.53   sec  70.3 KBytes  1.09 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 41583 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.45   sec   101 KBytes  1.84 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.45   sec   101 KBytes  1.84 Mbits/sec  2.235 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=891 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=125 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=183 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 125.801/400.432/891.934/348.343 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 56658 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.46   sec   126 KBytes  2.25 Mbits/sec    0   46.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.46   sec   126 KBytes  2.25 Mbits/sec    0             sender
+[  4]   0.00-0.46   sec  75.6 KBytes  1.35 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 54390 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.36   sec   101 KBytes  2.27 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.36   sec   101 KBytes  2.27 Mbits/sec  3.067 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=843 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=135 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=457 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 135.157/478.792/843.606/289.611 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 58056 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.56   sec   121 KBytes  1.78 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.56   sec   121 KBytes  1.78 Mbits/sec    0             sender
+[  4]   0.00-0.56   sec  78.2 KBytes  1.15 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52163 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.80 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.80 Mbits/sec  7.347 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=167 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=177 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=131 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 131.707/159.037/177.520/19.727 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 59908 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.59   sec   122 KBytes  1.69 Mbits/sec    0   45.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.59   sec   122 KBytes  1.69 Mbits/sec    0             sender
+[  4]   0.00-0.59   sec  76.9 KBytes  1.06 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52936 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.48   sec   101 KBytes  1.71 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.48   sec   101 KBytes  1.71 Mbits/sec  3.391 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=1368 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=362 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=133 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2006ms
+rtt min/avg/max/mdev = 133.017/621.332/1368.682/536.682 ms, pipe 2
+20170309043107
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 32872 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.91   sec   110 KBytes  0.99 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.91   sec   110 KBytes  0.99 Mbits/sec    0             sender
+[  4]   0.00-0.91   sec  65.0 KBytes  0.59 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 41112 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.82   sec   101 KBytes  1.00 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.82   sec   101 KBytes  1.00 Mbits/sec  8.665 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=125 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=253 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=178 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 125.899/186.012/253.417/52.313 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 34422 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.54   sec   113 KBytes  1.72 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.54   sec   113 KBytes  1.72 Mbits/sec    0             sender
+[  4]   0.00-0.54   sec  72.9 KBytes  1.11 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 51374 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.47   sec   101 KBytes  1.74 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.47   sec   101 KBytes  1.74 Mbits/sec  4.028 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=211 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=139 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=142 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 139.768/164.627/211.589/33.229 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 35814 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.45   sec   111 KBytes  2.02 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.45   sec   111 KBytes  2.02 Mbits/sec    0             sender
+[  4]   0.00-0.45   sec  69.0 KBytes  1.25 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 45541 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.40   sec   101 KBytes  2.04 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.40   sec   101 KBytes  2.04 Mbits/sec  4.428 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=346 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=144 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=141 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 141.850/211.114/346.641/95.839 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 37206 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.49   sec   107 KBytes  1.79 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.49   sec   107 KBytes  1.79 Mbits/sec    0             sender
+[  4]   0.00-0.49   sec  67.6 KBytes  1.13 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 34424 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.81 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.81 Mbits/sec  2.668 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=815 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=144 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=210 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 144.316/389.889/815.099/301.871 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 39066 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.58   sec   101 KBytes  1.43 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.58   sec   101 KBytes  1.43 Mbits/sec    0             sender
+[  4]   0.00-0.58   sec  71.6 KBytes  1.02 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 39692 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.57   sec   101 KBytes  1.45 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.57   sec   101 KBytes  1.45 Mbits/sec  17.925 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=137 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=206 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=197 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 137.535/180.632/206.436/30.673 ms
+20170309043947
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 40312 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.57   sec   122 KBytes  1.77 Mbits/sec    0   45.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.57   sec   122 KBytes  1.77 Mbits/sec    0             sender
+[  4]   0.00-0.57   sec  67.6 KBytes  0.98 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52304 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.79 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.79 Mbits/sec  7.505 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=160 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=201 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=189 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 160.263/183.818/201.647/17.376 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 41886 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.79   sec   146 KBytes  1.52 Mbits/sec    0   53.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.79   sec   146 KBytes  1.52 Mbits/sec    0             sender
+[  4]   0.00-0.79   sec  76.9 KBytes  0.80 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 58422 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.54   sec   101 KBytes  1.54 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.54   sec   101 KBytes  1.54 Mbits/sec  3.948 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=228 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=244 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=209 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 209.003/227.573/244.768/14.638 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 43280 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.51   sec   110 KBytes  1.78 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.51   sec   110 KBytes  1.78 Mbits/sec    0             sender
+[  4]   0.00-0.51   sec  67.6 KBytes  1.10 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 43611 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.80 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.80 Mbits/sec  6.414 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=192 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=240 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=188 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 188.606/207.346/240.610/23.589 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 44670 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.52   sec   118 KBytes  1.87 Mbits/sec    0   43.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.52   sec   118 KBytes  1.87 Mbits/sec    0             sender
+[  4]   0.00-0.52   sec  71.6 KBytes  1.14 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 59028 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.89 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.89 Mbits/sec  3.630 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=161 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=194 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=192 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 161.225/182.948/194.729/15.382 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 46524 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.49   sec   114 KBytes  1.89 Mbits/sec    0   42.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.49   sec   114 KBytes  1.89 Mbits/sec    0             sender
+[  4]   0.00-0.49   sec  65.0 KBytes  1.08 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 55491 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.43   sec   101 KBytes  1.91 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.43   sec   101 KBytes  1.91 Mbits/sec  3.160 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=198 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=195 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=357 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 195.537/250.576/357.230/75.429 ms
+20170309044832
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 47754 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.61   sec   119 KBytes  1.61 Mbits/sec    0   42.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.61   sec   119 KBytes  1.61 Mbits/sec    0             sender
+[  4]   0.00-0.61   sec  75.6 KBytes  1.02 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 50098 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.51   sec   101 KBytes  1.63 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.51   sec   101 KBytes  1.63 Mbits/sec  5.017 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=177 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=182 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=459 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 177.391/273.105/459.543/131.848 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52620 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.51   sec   114 KBytes  1.84 Mbits/sec    0   42.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.51   sec   114 KBytes  1.84 Mbits/sec    0             sender
+[  4]   0.00-0.51   sec  67.6 KBytes  1.09 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 33007 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.86 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.86 Mbits/sec  30855.400 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=533 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=146 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=385 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 146.333/355.209/533.797/159.626 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 54194 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.49   sec   110 KBytes  1.84 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.49   sec   110 KBytes  1.84 Mbits/sec    0             sender
+[  4]   0.00-0.49   sec  62.3 KBytes  1.04 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 40981 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.86 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.86 Mbits/sec  3.928 ms  0/76 (0%)  
+[  4] Sent 76 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=526 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=167 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=170 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 167.927/288.405/526.819/168.588 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=341 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=248 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=132 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 132.686/240.973/341.966/85.595 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=308 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=187 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=145 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 145.238/213.653/308.137/69.012 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 58836 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.53   sec   102 KBytes  1.57 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.53   sec   102 KBytes  1.57 Mbits/sec    0             sender
+[  4]   0.00-0.53   sec  59.7 KBytes  0.92 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 40222 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.52   sec   101 KBytes  1.59 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.52   sec   101 KBytes  1.59 Mbits/sec  8.192 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=164 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=233 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=218 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 164.777/205.505/233.145/29.405 ms
+20170309215641
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 60050 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.54   sec   146 KBytes  2.21 Mbits/sec    0   53.0 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.54   sec   146 KBytes  2.21 Mbits/sec    0             sender
+[  4]   0.00-0.54   sec  82.2 KBytes  1.24 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 42857 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.37   sec   101 KBytes  2.24 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.37   sec   101 KBytes  2.24 Mbits/sec  2.986 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=182 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=170 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=221 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 170.082/191.416/221.284/21.759 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 33372 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.63   sec   102 KBytes  1.34 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.63   sec   102 KBytes  1.34 Mbits/sec    0             sender
+[  4]   0.00-0.63   sec  61.0 KBytes  0.80 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 46476 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.61   sec   101 KBytes  1.36 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.61   sec   101 KBytes  1.36 Mbits/sec  20.467 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=234 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=219 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=433 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 219.413/295.819/433.872/97.805 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 34764 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.48   sec   110 KBytes  1.87 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.48   sec   110 KBytes  1.87 Mbits/sec    0             sender
+[  4]   0.00-0.48   sec  67.6 KBytes  1.15 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 48944 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.89 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.89 Mbits/sec  3.832 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=175 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=215 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=214 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 175.840/202.109/215.622/18.581 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 36158 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  50.4 KBytes  0.41 Mbits/sec    0   21.2 KBytes       
+[  4]   1.00-2.00   sec  35.8 KBytes  0.29 Mbits/sec    0   34.5 KBytes       
+[  4]   2.00-3.00   sec  0.00 Bytes  0.00 Mbits/sec    1   37.1 KBytes       
+[  4]   3.00-4.00   sec  0.00 Bytes  0.00 Mbits/sec    6   17.2 KBytes       
+[  4]   4.00-5.00   sec  0.00 Bytes  0.00 Mbits/sec   10   18.6 KBytes       
+[  4]   5.00-5.59   sec  23.9 KBytes  0.33 Mbits/sec    1   23.9 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-5.59   sec   110 KBytes  0.16 Mbits/sec   18             sender
+[  4]   0.00-5.59   sec  57.0 KBytes  0.08 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 44741 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-1.00   sec  19.9 KBytes   163 Kbits/sec  15  
+[  4]   1.00-2.00   sec  19.9 KBytes   163 Kbits/sec  15  
+[  4]   2.00-3.00   sec  19.9 KBytes   163 Kbits/sec  15  
+[  4]   3.00-4.00   sec  18.6 KBytes   152 Kbits/sec  14  
+[  4]   4.00-5.00   sec  19.9 KBytes   163 Kbits/sec  15  
+[  4]   5.00-5.09   sec  2.65 KBytes   233 Kbits/sec  2  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-5.09   sec   101 KBytes   162 Kbits/sec  100.662 ms  35/69 (51%)  
+[  4] Sent 69 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=326 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=252 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=751 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 252.937/443.509/751.340/219.718 ms
+20170309220523
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=9740 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=8735 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=7735 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2005ms
+rtt min/avg/max/mdev = 7735.328/8736.996/9740.571/818.638 ms, pipe 3
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 40828 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.84   sec   115 KBytes  1.12 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.84   sec   115 KBytes  1.12 Mbits/sec    0             sender
+[  4]   0.00-0.84   sec  74.3 KBytes  0.72 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=329 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=167 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=173 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 167.965/223.578/329.100/74.653 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 42222 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.90   sec   113 KBytes  1.02 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.90   sec   113 KBytes  1.02 Mbits/sec    0             sender
+[  4]   0.00-0.90   sec  75.6 KBytes  0.69 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=338 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=180 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=204 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 180.117/241.165/338.661/69.669 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 43610 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.47   sec   105 KBytes  1.84 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.47   sec   105 KBytes  1.84 Mbits/sec    0             sender
+[  4]   0.00-0.47   sec  67.6 KBytes  1.19 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 34619 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.86 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.44   sec   101 KBytes  1.86 Mbits/sec  4.890 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=163 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=151 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=235 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 151.421/183.352/235.425/37.134 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 45462 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.61   sec   133 KBytes  1.78 Mbits/sec    0   39.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.61   sec   133 KBytes  1.78 Mbits/sec    0             sender
+[  4]   0.00-0.61   sec  91.5 KBytes  1.23 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 59301 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.80 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.46   sec   101 KBytes  1.80 Mbits/sec  3.896 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=139 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=170 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=240 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 139.707/183.813/240.999/42.373 ms
+20170309221408
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 46618 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.64   sec   125 KBytes  1.60 Mbits/sec    0   39.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.64   sec   125 KBytes  1.60 Mbits/sec    0             sender
+[  4]   0.00-0.64   sec  63.7 KBytes  0.82 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 42212 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.51   sec   101 KBytes  1.62 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.51   sec   101 KBytes  1.62 Mbits/sec  5.267 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=160 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=183 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=161 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 160.673/168.420/183.357/10.574 ms
+iperf3: error - the server is busy running a test. try again later
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=327 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=245 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=212 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 212.420/261.812/327.363/48.299 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 49584 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.62   sec   101 KBytes  1.34 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.62   sec   101 KBytes  1.34 Mbits/sec    0             sender
+[  4]   0.00-0.62   sec  71.6 KBytes  0.95 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 41859 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.61   sec   101 KBytes  1.36 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.61   sec   101 KBytes  1.36 Mbits/sec  6.221 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=184 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=231 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=192 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 184.831/202.646/231.091/20.332 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 50970 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.46   sec   110 KBytes  1.98 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.46   sec   110 KBytes  1.98 Mbits/sec    0             sender
+[  4]   0.00-0.46   sec  65.0 KBytes  1.17 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 33020 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.41   sec   101 KBytes  2.00 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.41   sec   101 KBytes  2.00 Mbits/sec  4.020 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=1374 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=396 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=152 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 152.673/641.434/1374.838/528.084 ms, pipe 2
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 52832 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.39   sec   102 KBytes  2.15 Mbits/sec    0   38.5 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.39   sec   102 KBytes  2.15 Mbits/sec    0             sender
+[  4]   0.00-0.39   sec  59.7 KBytes  1.25 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 45722 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.38   sec   101 KBytes  2.18 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.38   sec   101 KBytes  2.18 Mbits/sec  8.057 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=129 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=252 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=166 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 129.171/182.717/252.200/51.477 ms
+20170309222246
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 54088 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.42   sec   118 KBytes  2.29 Mbits/sec    0   43.8 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.42   sec   118 KBytes  2.29 Mbits/sec    0             sender
+[  4]   0.00-0.42   sec  59.7 KBytes  1.16 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 48268 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.36   sec   101 KBytes  2.32 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.36   sec   101 KBytes  2.32 Mbits/sec  3.220 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=146 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=145 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=237 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 145.926/176.748/237.636/43.055 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 55614 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.46   sec   126 KBytes  2.22 Mbits/sec    0   46.4 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.46   sec   126 KBytes  2.22 Mbits/sec    0             sender
+[  4]   0.00-0.46   sec  75.6 KBytes  1.33 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 36447 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.37   sec   101 KBytes  2.25 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.37   sec   101 KBytes  2.25 Mbits/sec  4.759 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=987 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=125 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=279 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2073ms
+rtt min/avg/max/mdev = 125.429/464.125/987.734/375.532 ms
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 57004 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-0.42   sec   118 KBytes  2.30 Mbits/sec    0   41.1 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-0.42   sec   118 KBytes  2.30 Mbits/sec    0             sender
+[  4]   0.00-0.42   sec  75.6 KBytes  1.48 Mbits/sec                  receiver
+
+iperf Done.
+Setting UDP block size to 1358
+Connecting to host iperf.he.net, port 5201
+[  4] local 111.111.1.31 port 35638 connected to 216.218.227.10 port 5201
+[ ID] Interval           Transfer     Bandwidth       Total Datagrams
+[  4]   0.00-0.36   sec   101 KBytes  2.33 Mbits/sec  76  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Jitter    Lost/Total Datagrams
+[  4]   0.00-0.36   sec   101 KBytes  2.33 Mbits/sec  5.686 ms  0/75 (0%)  
+[  4] Sent 75 datagrams
+
+iperf Done.
+PING 9000.mtu.he.net (216.218.227.10) 56(84) bytes of data.
+64 bytes from 216.218.227.10: icmp_seq=1 ttl=52 time=350 ms
+64 bytes from 216.218.227.10: icmp_seq=2 ttl=52 time=130 ms
+64 bytes from 216.218.227.10: icmp_seq=3 ttl=52 time=131 ms
+
+--- 9000.mtu.he.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 130.842/204.293/350.910/103.674 ms

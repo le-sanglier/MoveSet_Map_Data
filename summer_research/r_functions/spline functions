@@ -1,0 +1,15 @@
+spline functions:
+
+#draw curved function 
+lines(spline(c(1:8), drive1_dsrc$value, method = "fmm", ties = mean), col = "red")
+or
+lines(spline(c(1:8), drive1_dsrc_fun(c(1:8))), col = "red")
+
+#draw strait lines to points
+lines(drive1_dsrc_fun(c(1:8)))
+
+#create krigging function
+drive6_dsrc_fun <- splinefun(c(1:103), drive6_dsrc$value, method = "fmm", ties = mean)
+
+#add point to plot to check function
+points(3.5, drive1_dsrc_fun(3.5), col = "green", pch=19)
